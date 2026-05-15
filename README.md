@@ -1,10 +1,8 @@
-# Encryption_Algorithm_RGR
+# encryption-algorithm
+First course work.
 
-Расчетно-графическая работа.
-
-Для установки программы необходимо следовать пунктам приведенным ниже.
-    
-    1. Скачать проект.
-    2. Открыть корневую папку проекта.
-    3.1. Для OC Linux: запустить скрипт install.sh
-    3.2. Для OC Windows: запустить bat-файл install.bat 
+Installation:    
+    1. Download the project.
+    2. Open project root folder.
+    3.1. For Linux OS: run install.sh
+    3.2. For Windows OS: run install.bat 
