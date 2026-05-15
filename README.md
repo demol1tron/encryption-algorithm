@@ -1,4 +1,4 @@
-# encryption-algorithm
+# Encryption Algorithm README
 First course work.
 
 Installation:    
